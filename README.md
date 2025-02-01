@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm Vatsal Sangani, a recent MSc Computer Science graduate from the University of Warwick with a strong foundation in Python, data analysis, and web development.
+
+My expertise spans Data Visualization, Machine Learning, Software Development, and building web-based solutions using modern technologies. Feel free to explore more about me below! 🚀
 <!--
 **VatsalSangani/vatsalsangani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
